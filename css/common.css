@@ -1,0 +1,7 @@
+.img-hover {
+	-webkit-transition: .2s all;
+}
+.img-hover:hover {
+	-webkit-filter: brightness(75%);
+	cursor: pointer;
+}

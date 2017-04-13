@@ -1,0 +1,19 @@
+.img-link{
+	display: block;
+	width: 100%;
+	min-height: 200px;
+	background-size: cover;
+	text-decoration: none;
+	color: inherit;
+	position: relative;
+}
+.img-link > div{
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	color: white;
+	padding: 10px;
+}
+.img-link div h3{
+	margin: 0;
+}

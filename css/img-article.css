@@ -9,11 +9,7 @@
 	font-size: .8em;
 }
 .img-article img{
-	-webkit-transition: .2s all;
-}
-.img-article img:hover {
-	-webkit-filter: brightness(75%);
-	cursor: pointer;
+	width: 100%;
 }
 .img-article a{
 	display: block;	
