@@ -1,0 +1,27 @@
+.img-article{
+	padding: 0 5px;
+}
+.img-article .title {
+	margin: 0 0 4px 0;
+	font-size: 1.2em;
+}
+.img-article .author {
+	font-size: .8em;
+}
+.img-article img{
+	-webkit-transition: .2s all;
+}
+.img-article img:hover {
+	-webkit-filter: brightness(75%);
+	cursor: pointer;
+}
+.img-article a{
+	display: block;	
+}
+.img-article a:link, .img-article a:visited {
+	text-decoration: none;
+	color: inherit;
+}
+.img-article a:hover{
+	text-decoration: underline;
+}

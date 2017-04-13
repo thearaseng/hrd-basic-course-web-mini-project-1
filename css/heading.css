@@ -1,0 +1,8 @@
+.heading{
+	padding: 0 10px 0 0;
+}
+.heading h2{
+	font-size: 1.6em;
+	text-transform: uppercase;
+	border-bottom: solid black 2px;
+}
