@@ -1,0 +1,17 @@
+footer{
+	background-color: black;
+}
+footer span{
+	color: white;
+	display: block;
+	text-transform: uppercase;
+	padding: 5px 0;
+}
+footer a{
+	display: block;
+	padding: 5px 0;
+}
+footer a:link, footer a:visited{
+	text-decoration: none;
+	color: white;
+}
