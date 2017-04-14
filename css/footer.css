@@ -1,7 +1,7 @@
 footer{
 	background-color: black;
 }
-footer span{
+footer > div > div > span{
 	color: white;
 	display: block;
 	text-transform: uppercase;
@@ -14,4 +14,11 @@ footer a{
 footer a:link, footer a:visited{
 	text-decoration: none;
 	color: white;
+}
+footer > div{
+	padding: 15px 15px;
+}
+footer p{
+	color: white;
+	margin: 0;
 }

@@ -5,4 +5,5 @@
 	font-size: 1.6em;
 	text-transform: uppercase;
 	border-bottom: solid black 2px;
+	display: inline-block;
 }

@@ -1,4 +1,7 @@
 .img-link{
+	padding: 1px;
+}
+.img-link a{
 	display: block;
 	width: 100%;
 	min-height: 200px;
@@ -7,13 +10,13 @@
 	color: inherit;
 	position: relative;
 }
-.img-link > div{
+.img-link a > div{
 	width: 100%;
 	position: absolute;
 	bottom: 0px;
 	color: white;
 	padding: 10px;
 }
-.img-link div h3{
+.img-link a div h3{
 	margin: 0;
 }
