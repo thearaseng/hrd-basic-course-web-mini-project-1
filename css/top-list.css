@@ -1,0 +1,33 @@
+.top-list span.number{
+	display: inline-block;
+	width: 100%;
+	font-size: 2em;
+	text-align: center;
+}
+.top-list h2.title{
+	margin: 0;
+}
+.top-list .des{
+	margin: 10px 0;
+}
+.top-list .footer{
+	/*margin-bottom: 10px;*/
+}
+.top-list .footer img{
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	vertical-align: middle;
+	display: inline-block;
+	margin-right: 5px;
+}
+.top-list .footer a{
+	font-size: 1em;
+	text-transform: uppercase;
+}
+.top-list .row{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	border-bottom: solid black 1px;
+}

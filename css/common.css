@@ -4,4 +4,15 @@
 .img-hover:hover {
 	-webkit-filter: brightness(75%);
 	cursor: pointer;
+	text-decoration: 
+}
+.text-decoration-none{
+	text-decoration: none;
+	color: black;
+}
+.text-decoration-none:visited{
+	color: black;
+}
+.underline-on-hover:hover{
+	text-decoration: underline;
 }
