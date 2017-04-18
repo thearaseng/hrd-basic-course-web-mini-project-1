@@ -5,12 +5,18 @@
 	text-shadow: 3px 3px 8px black;
 }
 .img-link .text h3{
-	font-weight: 100;
 	font-size: 1.3em;
+	margin-bottom: 5px;
+}
+.img-link.big-text .text h3{
+	font-size: 2.5em;
 	margin-bottom: 5px;
 }
 .img-link .text .author{
 	font-size: .8em;
+}
+.img-link.big-text .text .author{
+	font-size: 1.5em;
 }
 .img-link a{
 	display: block;
@@ -20,6 +26,9 @@
 	text-decoration: none;
 	color: inherit;
 	position: relative;
+}
+.img-link.big-text a{
+	min-height: 400px;
 }
 .img-link a > div{
 	width: 100%;
