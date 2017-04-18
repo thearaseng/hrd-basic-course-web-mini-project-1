@@ -1,17 +1,17 @@
-.latest-list{
+.list{
 	padding: 0 10px;
 }
-.latest-list a:link, .latest-list a:visited {
+.list a:link, .list a:visited {
 	text-decoration: none;
 	color: inherit;
 }
-.latest-list a{
+.list a{
 	display: block;
 	padding: 8px;
 	transition: .3s background-color, color;
 	border-bottom: solid #a6a6a6 1px;
 }
-.latest-list a:hover{
-	background-color: #a6a6a6;
+.list a:hover{
+	background-color: #42AB9E;
 	color: white;
 }
