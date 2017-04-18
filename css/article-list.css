@@ -1,16 +1,16 @@
-.top-list span.number{
+.article-list span.number{
 	display: inline-block;
 	width: 100%;
 	font-size: 2em;
 	text-align: center;
 }
-.top-list h2.title{
+.article-list h2.title{
 	margin: 0;
 }
-.top-list .des{
+.article-list .des{
 	margin: 10px 0;
 }
-.top-list .footer img{
+.article-list .footer img{
 	width: 25px;
 	height: 25px;
 	border-radius: 50%;
@@ -18,19 +18,19 @@
 	display: inline-block;
 	margin-right: 5px;
 }
-.top-list .footer a{
+.article-list .footer a{
 	font-size: 1em;
 	text-transform: uppercase;
 }
-.top-list .row{
+.article-list .row{
 	margin-top: 20px;
 	margin-bottom: 20px;
 	padding-bottom: 10px;
 	border-bottom: solid #173e43 1px;
 }
-.top-list .top-list-img{
+.article-list .article-list-img{
 	width: 100%;
 }
-.top-list .body{
+.article-list .body{
 	padding-left: 10px;
 }

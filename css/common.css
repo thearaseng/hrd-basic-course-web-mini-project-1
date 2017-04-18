@@ -1,5 +1,5 @@
 body{
-	font-family: sans-serif;
+	font-family: "Arial Black", Arial, sans-serif;
 	color: #173e43;
 }
 .img-hover {
@@ -12,10 +12,10 @@ body{
 }
 .text-decoration-none{
 	text-decoration: none;
-	color: black;
+	color: #173e43;
 }
 .text-decoration-none:visited{
-	color: black;
+	color: #173e43;
 }
 .underline-on-hover:hover{
 	text-decoration: underline;

@@ -1,9 +1,12 @@
 .img-article{
 	padding: 0 5px;
 }
+.img-article .title{
+	margin: 5px 0 10px 0;
+}
 .img-article .title a {
 	margin: 0 0 4px 0;
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 .img-article .author{
 	margin: 5px 0;

@@ -1,6 +1,17 @@
 .img-link{
 	padding: 1px;
 }
+.img-link .text{
+	text-shadow: 3px 3px 8px black;
+}
+.img-link .text h3{
+	font-weight: 100;
+	font-size: 1.3em;
+	margin-bottom: 5px;
+}
+.img-link .text .author{
+	font-size: .8em;
+}
 .img-link a{
 	display: block;
 	width: 100%;
