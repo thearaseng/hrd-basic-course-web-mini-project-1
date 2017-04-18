@@ -1,3 +1,7 @@
+body{
+	font-family: sans-serif;
+	color: #173e43;
+}
 .img-hover {
 	-webkit-transition: .2s all;
 }
