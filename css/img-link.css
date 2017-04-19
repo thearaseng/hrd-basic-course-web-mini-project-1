@@ -15,6 +15,13 @@
 .img-link .text .author{
 	font-size: .8em;
 }
+.img-link .text .author img{
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	vertical-align: middle;
+	margin-right: 5px;
+}
 .img-link.big-text .text .author{
 	font-size: 1.5em;
 }
