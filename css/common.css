@@ -12,10 +12,10 @@ body{
 }
 .text-decoration-none{
 	text-decoration: none;
-	color: #173e43;
+	color: inherit;
 }
 .text-decoration-none:visited{
-	color: #173e43;
+	color: inherit;
 }
 .underline-on-hover:hover{
 	text-decoration: underline;
