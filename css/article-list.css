@@ -22,6 +22,11 @@
 	font-size: 1em;
 	text-transform: uppercase;
 }
+.article-list .footer .date{
+	display: inline-block;
+	margin-left: 20px;
+	text-transform: uppercase;
+}
 .article-list .row{
 	margin-top: 20px;
 	margin-bottom: 20px;
