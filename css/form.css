@@ -1,0 +1,31 @@
+	.form input[type=text]{
+		padding: 3px;
+		border-bottom: 1px solid #42AB9E;
+		border-top-style: none;
+		border-right-style: none;
+		border-left-style: none;
+		outline: none;
+		font-size: 1.1em;
+		color: #173e43;
+	}
+	.form input[type=text]:focus{
+		border-bottom-width: 2px;
+	}
+	::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+	    color:    #173e43;
+	    font-size: .8em;
+	}
+	:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+	   color:    #173e43;
+	   font-size: .8em;
+	   opacity:  1;
+	}
+	::-moz-placeholder { /* Mozilla Firefox 19+ */
+	   color:    #173e43;
+	   font-size: .8em;
+	   opacity:  1;
+	}
+	:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	   color:    #173e43;
+	   font-size: .8em;
+	}
