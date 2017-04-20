@@ -1,10 +1,10 @@
 .heading{
-	padding: 0 10px 0 0;
+  padding: 0 10px 0 0;
 }
 .heading h2, .heading h1{
-	font-size: 1.6em;
-	text-transform: uppercase;
-	border-bottom: solid #42AB9E 2px;
-	color: #173e43;
-	display: inline-block;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  border-bottom: solid #42AB9E 2px;
+  color: #173e43;
+  display: inline-block;
 }

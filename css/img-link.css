@@ -1,49 +1,49 @@
 .img-link{
-	padding: 1px;
+  padding: 1px;
 }
 .img-link .text{
-	text-shadow: 3px 3px 8px black;
+  text-shadow: 3px 3px 8px black;
 }
 .img-link .text h3{
-	font-size: 1.3em;
-	margin-bottom: 5px;
+  font-size: 1.3em;
+  margin-bottom: 5px;
 }
 .img-link.big-text .text h3{
-	font-size: 2.5em;
-	margin-bottom: 5px;
+  font-size: 2.5em;
+  margin-bottom: 5px;
 }
 .img-link .text .author{
-	font-size: .8em;
+  font-size: .8em;
 }
 .img-link .text .author img{
-	height: 30px;
-	width: 30px;
-	border-radius: 50%;
-	vertical-align: middle;
-	margin-right: 5px;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 5px;
 }
 .img-link.big-text .text .author{
-	font-size: 1.5em;
+  font-size: 1.5em;
 }
 .img-link a{
-	display: block;
-	width: 100%;
-	min-height: 200px;
-	background-size: cover;
-	text-decoration: none;
-	color: inherit;
-	position: relative;
+  display: block;
+  width: 100%;
+  min-height: 200px;
+  background-size: cover;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
 }
 .img-link.big-text a{
-	min-height: 400px;
+  min-height: 400px;
 }
 .img-link a > div{
-	width: 100%;
-	position: absolute;
-	bottom: 0px;
-	color: white;
-	padding: 10px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  color: white;
+  padding: 10px;
 }
 .img-link a div h3{
-	margin: 0;
+  margin: 0;
 }

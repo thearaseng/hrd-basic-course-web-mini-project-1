@@ -1,18 +1,18 @@
 .button{
-	padding: 10px;
-	width: 100%;
-	margin: 0;
-	color: white;
-	background-color: #2093a2;
-	transition: 0.2s background-color;
-	font-size: 1em;
-	border: 0;
+  padding: 10px;
+  width: 100%;
+  margin: 0;
+  color: white;
+  background-color: #2093a2;
+  transition: 0.2s background-color;
+  font-size: 1em;
+  border: 0;
   -webkit-appearance: none;
 }
 .button:hover{
-	cursor: pointer;
-	background-color: #42AB9E;
+  cursor: pointer;
+  background-color: #42AB9E;
 }
 .button-wrapper{
-	padding: 20px;
+  padding: 20px;
 }

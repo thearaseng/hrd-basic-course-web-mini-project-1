@@ -1,25 +1,25 @@
 body{
-	font-family: "Arial Black", Arial, sans-serif;
-	color: #173e43;
+  font-family: "Arial Black", Arial, sans-serif;
+  color: #173e43;
 }
 .img-hover {
-	-webkit-transition: .2s all;
+  -webkit-transition: .2s all;
 }
 .img-hover:hover {
-	-webkit-filter: brightness(75%);
-	cursor: pointer;
-	text-decoration: 
+  -webkit-filter: brightness(75%);
+  cursor: pointer;
+  text-decoration: 
 }
 .text-decoration-none{
-	text-decoration: none;
-	color: inherit;
+  text-decoration: none;
+  color: inherit;
 }
 .text-decoration-none:visited{
-	color: inherit;
+  color: inherit;
 }
 .underline-on-hover:hover{
-	text-decoration: underline;
+  text-decoration: underline;
 }
 .img-responsive{
-	width: 100%;
+  width: 100%;
 }

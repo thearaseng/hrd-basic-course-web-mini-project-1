@@ -1,45 +1,45 @@
 .article-list span.number{
-	display: inline-block;
-	width: 100%;
-	font-size: 2em;
-	text-align: center;
+  display: inline-block;
+  width: 100%;
+  font-size: 2em;
+  text-align: center;
 }
 .article-list h2.title{
-	margin: 0;
+  margin: 0;
 }
 .article-list .des{
-	margin: 10px 0;
-	font-size: 1.05em;
+  margin: 10px 0;
+  font-size: 1.05em;
 }
 .article-list .footer{
-	color: rgba(23, 62, 67, .7);
+  color: rgba(23, 62, 67, .7);
 }
 .article-list .footer img{
-	width: 25px;
-	height: 25px;
-	border-radius: 50%;
-	vertical-align: middle;
-	display: inline-block;
-	margin-right: 5px;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  vertical-align: middle;
+  display: inline-block;
+  margin-right: 5px;
 }
 .article-list .footer a{
-	font-size: 1em;
-	text-transform: uppercase;
+  font-size: 1em;
+  text-transform: uppercase;
 }
 .article-list .footer .date{
-	display: inline-block;
-	margin-left: 20px;
-	text-transform: uppercase;
+  display: inline-block;
+  margin-left: 20px;
+  text-transform: uppercase;
 }
 .article-list .row{
-	margin-top: 20px;
-	margin-bottom: 20px;
-	padding-bottom: 10px;
-	border-bottom: solid #173e43 1px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: solid #173e43 1px;
 }
 .article-list .article-list-img{
-	width: 100%;
+  width: 100%;
 }
 .article-list .body{
-	padding-left: 10px;
+  padding-left: 10px;
 }

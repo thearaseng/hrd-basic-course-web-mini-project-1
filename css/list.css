@@ -1,17 +1,17 @@
 .list{
-	padding: 0 10px;
+  padding: 0 10px;
 }
 .list a:link, .list a:visited {
-	text-decoration: none;
-	color: inherit;
+  text-decoration: none;
+  color: inherit;
 }
 .list a{
-	display: block;
-	padding: 8px;
-	transition: .3s background-color, color;
-	border-bottom: solid #a6a6a6 1px;
+  display: block;
+  padding: 8px;
+  transition: .3s background-color, color;
+  border-bottom: solid #a6a6a6 1px;
 }
 .list a:hover{
-	background-color: #42AB9E;
-	color: white;
+  background-color: #42AB9E;
+  color: white;
 }
