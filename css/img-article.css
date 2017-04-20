@@ -1,5 +1,6 @@
 .img-article{
   padding: 0 5px;
+  padding-bottom: 10px;
 }
 .img-article .title{
   margin-top: 3px;
@@ -10,7 +11,6 @@
 }
 .img-article .author{
   margin-top: 2px;
-  margin-bottom: 10px;
   color: rgba(23, 62, 67, .8);
 }
 .img-article .author a {
