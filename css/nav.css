@@ -4,23 +4,41 @@ nav{
   background-color: #42AB9E;
   color: white;
 }
-nav > h1 {
+nav .container #brand h1 {
   display: inline-block;
-  padding: 0;
-  margin: 0 15px;
+  padding: 15px 10px;
+  margin: 0;
 }
-nav > ul {
+nav .container a#brand{
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+  transition: .2s color;
+}
+nav .container a#brand:hover{
+  color: white;
+}
+nav .container hr{
+  display: none;
+  border: 0;
+  border-top: 1px solid rgba(23, 62, 67, .2);
+  margin: 0;
+  padding: 0;
+}
+nav .container > ul {
   list-style-type: none;
   display: inline-block;
   margin: 0;
   padding: 0;
 }
-nav > ul > li{
-  display: inline;
+nav .container > ul > li{
+  display: inline-block;
+  margin-right: -4.5px;
   padding: 0;
-  margin: 0;
 }
-nav > ul > li > a{
+nav .container > ul > li.active > a{
+  background-color: #308277;
+}
+nav .container > ul > li > a{
   display: inline-block;
   padding: 20px 10px;
   text-decoration: none;
@@ -29,6 +47,26 @@ nav > ul > li > a{
   font-size: 1.2em;
   transition: 0.2s background-color;
 }
-nav > ul > li > a:hover{
+nav .container > ul > li > a:hover{
   background-color: #4a4d51;
+}
+@media screen and (max-width:570px){
+  nav .container > ul{
+    display: block;
+  }
+  nav .container > ul > li{
+    display: block;
+  }
+  nav .container > ul > li a{
+    display: block;
+    text-align: center;
+  }
+  nav .container > ul > li{
+    margin-right: 0;
+  }
+}
+@media screen and (max-width:777px){
+  nav .container hr{
+    display: block;
+  }
 }
