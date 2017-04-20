@@ -1,5 +1,9 @@
+@font-face {
+    font-family: proxima-nova;
+    src: url('../fonts/proxima-nova.otf');
+}
 body{
-  font-family: "Arial Black", Arial, sans-serif;
+  font-family: 'proxima-nova', Arial, sans-serif;
   color: #173e43;
 }
 .img-hover {

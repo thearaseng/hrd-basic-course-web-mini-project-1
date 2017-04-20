@@ -2,14 +2,16 @@
   padding: 0 5px;
 }
 .img-article .title{
-  margin: 5px 0 10px 0;
+  margin-top: 3px;
 }
 .img-article .title a {
   margin: 0 0 4px 0;
   font-size: 1.1em;
 }
 .img-article .author{
-  margin: 5px 0;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  color: rgba(23, 62, 67, .8);
 }
 .img-article .author a {
   font-size: .8em;

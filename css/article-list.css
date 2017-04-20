@@ -35,7 +35,7 @@
   margin-top: 20px;
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: solid #173e43 1px;
+  border-bottom: solid rgba(23, 62, 67, .2) 1px;
 }
 .article-list .article-list-img{
   width: 100%;
