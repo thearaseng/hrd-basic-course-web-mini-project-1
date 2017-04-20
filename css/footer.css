@@ -2,14 +2,19 @@ footer{
 	background-color: #42AB9E;
 }
 footer > div > div > span{
-	color: white;
+	color: rgba(255, 255, 255, .7);
 	display: block;
 	text-transform: uppercase;
-	padding: 5px 0;
+	padding: 10px 0;
+	font-weight: bold;
 }
 footer a{
 	display: block;
 	padding: 5px 0;
+}
+footer > div > div > a:hover{
+	color: rgba(255, 255, 255, .7);
+	text-decoration: underline;
 }
 footer a:link, footer a:visited{
 	text-decoration: none;
