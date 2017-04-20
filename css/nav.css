@@ -70,3 +70,6 @@ nav .container > ul > li > a:hover{
     display: block;
   }
 }
+nav i.fa-home{
+  font-size: .95em;
+}
