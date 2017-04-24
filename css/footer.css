@@ -1,7 +1,7 @@
 footer{
   background-color: #42AB9E;
 }
-footer > div > div > span{
+footer > div > div > div > span{
   color: rgba(255, 255, 255, .7);
   display: block;
   text-transform: uppercase;
@@ -12,7 +12,7 @@ footer a{
   display: block;
   padding: 5px 0;
 }
-footer > div > div > a:hover{
+footer > div > div > div > a:hover{
   color: rgba(255, 255, 255, .7);
   text-decoration: underline;
 }
@@ -20,7 +20,7 @@ footer a:link, footer a:visited{
   text-decoration: none;
   color: white;
 }
-footer > div{
+footer > div > div{
   padding: 15px 15px;
 }
 footer p{
